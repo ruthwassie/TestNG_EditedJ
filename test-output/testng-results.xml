@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10207" started-at="2022-08-17T02:56:22Z" finished-at="2022-08-17T02:56:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10207" started-at="2022-08-17T02:56:22Z" finished-at="2022-08-17T02:56:32Z">
+      <class name="variousConcept.CopyLearnTestNG">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:variousConcept.CopyLearnTestNG@51e5fc98]" name="readConfig" is-config="true" duration-ms="13" started-at="2022-08-17T02:56:22Z" finished-at="2022-08-17T02:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcept.CopyLearnTestNG@51e5fc98]" name="init" is-config="true" duration-ms="4174" started-at="2022-08-17T02:56:22Z" finished-at="2022-08-17T02:56:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addcustomer()[pri:0, instance:variousConcept.CopyLearnTestNG@51e5fc98]" name="addcustomer" duration-ms="5994" started-at="2022-08-17T02:56:26Z" finished-at="2022-08-17T02:56:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+      </class> <!-- variousConcept.CopyLearnTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
